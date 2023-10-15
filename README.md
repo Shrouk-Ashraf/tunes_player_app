@@ -1,16 +1,10 @@
 # tunes_player_app
 
-A new Flutter project.
+A new Flutter project with Responsive UI.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project displays a tunes sound for each color.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/Shrouk-Ashraf/tunes_player_app/assets/68174886/cc528e99-6cc6-4394-ab56-dbf4704794f9
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
